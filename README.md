@@ -51,8 +51,8 @@ $ pip install opencv-python face_recognition
 
 1. **Clone the Repository:**
 ```bash
-$ git clone https://github.com/Hrishi8035/facial-recognition-system.git
-$ cd facial-recognition-system
+$ git clone https://github.com/Hrishi8035/CodeClause_Project-2.git
+$ cd CodeClause_Project-2
 ```
 
 2. **Install Dependencies:**
